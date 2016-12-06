@@ -59,6 +59,7 @@ I started a personal project only to develop my own *Conway's Game Of Life* , th
  - Danilo Queiroz Barbosa [(his github)](https://github.com/daniloqb/)
  - Gabriel Teston :shipit:
  - Electronic Drops :zap: :cloud:[Our little group](https://github.com/ElectronicDrops/)
+
 For now, I'm just saving my work.
 
 
