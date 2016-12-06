@@ -26,7 +26,7 @@ $ chmod +x *.class
 ```sh
 $ ./UseGameOfLife "0"
 ```
-##### Or you can just download the lastest executable .jar file [HERE](http://www.mediafire.com/file/h085jahtm9jhemd/GameOfLifev04.jar)
+##### Or you can just download the lastest executable .jar file [HERE](http://www.mediafire.com/file/h085jahtm9jhemd/GameOfLifev04.jar) *(RECOMMENDED and FASTER)*
 *Add permissions to execute*
 ```sh
 $ chmod +x GameOfLifev04.jar
