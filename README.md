@@ -3,7 +3,10 @@
 You can call *Olivato's Game Of Life* a simulation of bacteria breeding , you can create your own organisms , see them reproduct , evolute and fight!
 > I'm working on something more complex , this is just a prelude.
 
+[![Example](https://img.youtube.com/vi/ieYBISADymM/0.jpg)](https://www.youtube.com/watch?v=ieYBISADymM)
+
 **How To Download,Compile,Execute it (Linux)**
+
 *Download*
 ```sh
 $ git clone https://github.com/olivatooo/GameOfLife
